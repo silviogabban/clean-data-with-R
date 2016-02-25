@@ -1,7 +1,7 @@
 ## Getting and Cleaning Data Course Project
 This file describes how to run the script run_analysis.R, what it produces and how to check the results.
 * Unzip the data from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
-* Download from here the run_analysis.R script file and copy it to the folder "UCI HAR Dataset" and open it with RStudio.
+* Download from here the **run_analysis.R** script file, copy it to the folder "UCI HAR Dataset" and open it with RStudio.
 * Set the "UCI HAR Dataset" as your current working directory.
 * Run or Source, as you prefer, the script in RStudio. 
 * When run or sourced you'll find the "myResultingDataSet.txt" file in your current working directory. It'd have to be 224816 bytes long. Plus you'll find "myResultingDataSet_rownamesfalse.txt", 223844 bytes long, which is the one uploaded submitting the assignment.
